@@ -1,0 +1,1 @@
+esta licenci corresponde a la version 1.0 del proyecto walter acevedo
